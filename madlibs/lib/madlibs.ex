@@ -1,2 +1,0 @@
-defmodule MADLIBS do
-end
