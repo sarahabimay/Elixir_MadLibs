@@ -1,3 +1,7 @@
 # Elixir_MadLibs
-## MADLIBS.MadLibs.play_madlibs
+## open up iex
+## iex> MADLIBS.MadLibs.play_madlibs
+## enter comma separated values for the grammatical terms requested
+## return
 
+## No validation yet
